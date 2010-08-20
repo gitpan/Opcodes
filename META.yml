@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Opcodes
-version:            0.04
+version:            0.05
 abstract:           More Opcodes information from opnames.h and opcode.h
 author:
     - Reini Urban
@@ -11,6 +11,9 @@ configure_requires:
 build_requires:
     ExtUtils::MakeMaker:  0
 requires:  {}
+resources:
+    license:     http://dev.perl.org/licenses/
+    repository:  http://github.com/rurban/Opcodes
 no_index:
     directory:
         - t
