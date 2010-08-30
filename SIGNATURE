@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.64.
+signed via the Module::Signature module, version 0.61.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,25 +14,25 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 0cf2faffe9f2ce0ad8efc31348613e4af7321bde Changes
+SHA1 39f5d83d60c4b1ad362400bd890471bed3859c42 Changes
 SHA1 cf78eb481ed8b04f9e9a01ae9cb4014ad30c79f4 LICENSE
 SHA1 053656480f95c551ce3e58af0d79065e49d92e47 MANIFEST
-SHA1 787dcbc8d69f71225df1a3e95aaf63a30b95af8e META.yml
-SHA1 55f6dfa1f34c5c9ccf33021b12d686c1683d8409 Makefile.PL
-SHA1 c8decd6f70b24e71eba93c1db69deddd4b687e6a Opcodes.xs
+SHA1 62d99b5f53da3ce71e8999b93d7d0d8f89ad9446 META.yml
+SHA1 270d2c32e403a17576806e4e70ce64a08b043065 Makefile.PL
+SHA1 c5afac96e6c64df9cb26f34fa22f0f04781c3210 Opcodes.xs
 SHA1 18416b0b3c0d8aec56e159b594ba3d1dbe0862f5 README
-SHA1 1132ffae95d83cb9c167314524280581bae7758a lib/Opcodes.pm
+SHA1 f0eb8fc321b06d13f5df025abcd94a2e7828c4f6 lib/Opcodes.pm
 SHA1 51702fb498aaa4b9f82c5bcb7dfe6c4836c4db59 ppport.h
-SHA1 5b843fe119b2d74959b9557f6bf8debfb07a2bdc t/Opcodes.t
+SHA1 8e836ca278cb3578914e07e2d4c03356407e382e t/Opcodes.t
 SHA1 42ae1cebfba100004a91100742a0e9cf57a25961 t/z_kwalitee.t
-SHA1 520f209465427a23ec71aa3aa6c9de18fc9cef0e t/z_meta.t
-SHA1 ed5f7b993d7acc3459077483631abf5ee222206e t/z_perl_minimum_version.t
-SHA1 4a7848ecf1ed7f720928770ca07e7c81d1d00b28 t/z_pod-coverage.t
+SHA1 6b2bcbcb327191beeb7aea3a82ddee7ce1aed25e t/z_meta.t
+SHA1 f4934d6029737d0fd1046bde57fb7a9657e19225 t/z_perl_minimum_version.t
+SHA1 08efe8b3beb32f27b3ee73f982b62761d5e48309 t/z_pod-coverage.t
 SHA1 c8aa3903d3aba84c19bbd94d677620c758fa07d5 t/z_pod.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.10 (GNU/Linux)
+Version: GnuPG v1.4.9 (Cygwin)
 
-iEYEARECAAYFAkxuiKQACgkQmm2SYo/9yUJLugCfbFHWIMFQIRTNeYP88VRLuGai
-zb0AnAiyhJcjrYNzVoTh7zxmSBOwYtXy
-=+1TJ
+iEYEARECAAYFAkx8NRwACgkQmm2SYo/9yUKaHQCdGJT/tf96z/1KqV0jU0nR+nTS
+jHUAnjQZPInL88QmJPTb9OHLKU2bW4HR
+=YfKs
 -----END PGP SIGNATURE-----
