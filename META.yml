@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Opcodes
-version:            0.10
+version:            0.11
 abstract:           More Opcodes information from opnames.h and opcode.h
 author:
     - Reini Urban
