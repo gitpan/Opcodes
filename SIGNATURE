@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.70.
+signed via the Module::Signature module, version 0.73.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,15 +14,15 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 523061165acb83fa44239130a01cf4193ea5597f Changes
+SHA1 1dfadc13024e92d9ac0f6589bdd3937765c25b5f Changes
 SHA1 cf78eb481ed8b04f9e9a01ae9cb4014ad30c79f4 LICENSE
 SHA1 32b10233e33fdea0c1e69dfb1bf95852ba567819 MANIFEST
-SHA1 2f41ca1264b425047c98a9b9f8f1fef7fd2f3fb1 META.json
-SHA1 eb7ad244bafdaa15a6b856b031189d418f8731de META.yml
+SHA1 e578f0795a41842f72ba7018ec66b3687117837b META.json
+SHA1 7d84c9ae44e63978fba32f8a77c8183f7f4575f8 META.yml
 SHA1 24d8b74cc6ce6abc0bdcfa231b8e1c9cca6e8f1b Makefile.PL
 SHA1 ed2c94877d483e7c37303aadd3f62e7d0bb39bf5 Opcodes.xs
 SHA1 f72c9e3fe3e0113d8e26cd28efb03ea9776e1669 README
-SHA1 1046fbed7527ab79a8f2c90d14341000577c606a lib/Opcodes.pm
+SHA1 359f55580d70bfb5d972c6986f0a3981e6786001 lib/Opcodes.pm
 SHA1 51702fb498aaa4b9f82c5bcb7dfe6c4836c4db59 ppport.h
 SHA1 8e836ca278cb3578914e07e2d4c03356407e382e t/Opcodes.t
 SHA1 e7dd7ac83f7cb16b50ca8439c406e0b28324a84b t/z_kwalitee.t
@@ -31,9 +31,9 @@ SHA1 f4934d6029737d0fd1046bde57fb7a9657e19225 t/z_perl_minimum_version.t
 SHA1 08efe8b3beb32f27b3ee73f982b62761d5e48309 t/z_pod-coverage.t
 SHA1 8e6c77dd1d7e2bb99d62e199e1b19b6090e405f5 t/z_pod.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.12 (GNU/Linux)
+Version: GnuPG v1.4.15 (GNU/Linux)
 
-iEYEARECAAYFAlFfNZAACgkQmm2SYo/9yUJn+QCfUjlzZsE5tdgP/rUJxcGIS/OY
-mCQAnj2FatMkKlfuOYF2MiWOw5RV9s01
-=PkFC
+iEYEARECAAYFAlLBohwACgkQmm2SYo/9yULpHQCcD0Yf1f1VssSOwBQ8UEZGNZUV
+KgAAmweaZkAhqh46aki2e+l1I22ywx9l
+=/Nus
 -----END PGP SIGNATURE-----
